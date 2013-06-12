@@ -1,0 +1,257 @@
+	body {
+		/*background-image:url('res/background.png');
+		background-repeat:repeat;*/
+		
+		background:#adadad;
+		
+		height:100%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		
+		text-align: center; /* for IE */
+		
+		/*font-family: 'Duru Sans', sans-serif;*/
+
+	}
+	
+	#container a:link, #container a:visited {
+		text-decoration: none;
+		color: #000000;
+		/*font-size: 40px;*/
+		height:100%;
+	}
+
+	#container a.active:link, #container a.active:visited, #container a:hover {
+		/*border-bottom: none;*/
+		text-decoration: none;
+
+		color: #FFA500;
+		/*font-size: 40px;*/
+	}
+
+	#container {
+		/*font-family: verdana, sans-serif;*/
+		/*font-size: 40px;*/
+		width:700px;
+  		/*margin-left: auto ;
+  		margin-right: auto ;*/
+  		padding-left: 10px;
+  		padding-right: 10px;
+  		padding-top: 10px;
+  		margin: 0 auto;   /* align for good browsers */
+  		
+		text-align:left;
+		height:100%;
+		background:#FFF;
+		border-left: black 1px solid;
+		border-right: black 1px solid;
+		
+		/*font-family: 'Duru Sans', sans-serif;*/
+		/*font-family: 'Donegal One', serif;*/
+		font-family: 'Source Sans Pro', sans-serif;
+	}	
+	
+	
+	#main_content {
+		text-align:center;
+		width:100%;
+	}
+	
+	#l_logo{
+		text-align:center;
+		padding-bottom: 20px;
+	}
+	
+	#l_tagline{
+		padding-bottom: 20px;
+		font-size: 1.25em;
+	}
+	
+	#l_form{
+		text-align:center;
+		width:100%;
+	}
+	
+	#l_email{
+		display:inline-block;
+		font-size:1.5em;
+	}
+	
+	#l_pass{
+		display:inline-block;
+		font-size:1.5em;	
+	}
+	
+	#l_submit{
+		
+		display:inline-block;
+		font-size:1.5em;
+	}
+	
+	#l_resetpass{
+		float:right;
+		margin-right:60px;
+		font-size: .5em;
+	}
+	
+	#footer{
+		text-align:center;
+		/*border-top:black 1px solid;*/
+		padding-top:10px;
+		
+		position : absolute;
+    	bottom : 0;
+    	height : 30px;
+    	
+    	width:700px;
+    	margin-top : 20px;
+    	margin-left: auto;
+    	margin-right: auto;
+		
+	}
+	
+	.foot_item{
+		display:inline-block;
+		font-size:.5em;
+		width:5em;
+	}
+	
+	#home_head{
+		text-align:left;
+		padding-bottom: 20px;
+	}
+	
+	.head_name {
+		font-size:3em;
+	}
+	
+	.list_head{
+		text-align:left;
+		font-size:1.5em;
+		/*padding-bottom: 20px;*/
+	}
+	
+	#more_sets{
+		text-align:right;
+		font-size:1em;
+		padding-bottom: 20px;
+		padding-right:150px;
+	}
+	
+	#listofsets{
+		/*font-size:1em;*/
+		/*width:100%;*/
+		/*padding:4px;*/
+		padding-bottom: 20px;
+	}
+	
+	#setname{
+		text-align:left;
+		width:150px;
+	}
+	
+	.secondary_head{
+		text-align:left;
+		font-size:1em;
+		width:680px;
+		padding-bottom: 20px;
+	}
+	
+	.listofsets_header{
+		/*text-align:left;*/
+		/*margin-right:5px;*/
+		padding-right:5px;
+		padding-left:5px;
+		float:left;
+		overflow: hidden;
+	}
+	
+	.listofsets_row {
+		width: 100%;
+		/*background:#FCF;*/
+		text-align:left;
+		overflow: hidden;
+		padding-top:3px;
+		padding-bottom:3px;
+		
+	}
+	
+	.row_alt {background-color:rgba(131,139,131,0.3);}
+	
+	.listsets_col1{width:150px;}
+	
+	.listsets_col2{width:40px; max-height:20px;text-align:center;}
+	
+	.listsets_col3{width:350px;}
+	
+	.listsets_col4{width:50px; text-align:center;}
+	
+	.listsets_col5{width:70px; text-align:left;}
+	
+	.listsets_col6{width:320px;text-align:left; max-height:24px;}
+	.listsets_col7{width:280px;text-align:left; max-height:24px;}
+	.listsets_col8{text-align:left; max-height:24px;}
+	
+	.set_tag {
+		background-color:rgba(255,215,0,0.5);
+		font-size:.8em;
+		margin:3px;
+		
+	}
+	
+	.slider {
+		overflow:hidden;
+		display:none;
+		/*background-color:rgba(255,215,0,0.5);*/
+	}
+	
+	.altcolor {
+		background-color:rgba(255,215,0,0.5);
+	}
+	
+	.pxh{
+		max-height:24px;
+	}
+	
+	.leftslide {
+		max-height:30px;
+		margin-left:15px;
+	}
+	
+	.feature{
+		display:inline-block;
+		background-image:url('res/sprite.png');
+		text-align:center;
+		vertical-align:top;
+		width:150px;
+		height:90px;
+		overflow:hidden;
+	}
+	
+	.ftxt{
+		display:inline-block;
+		text-align:center;
+		vertical-align:top;
+		width:200px;		
+		overflow:hidden;
+	}
+	
+	.extra-margin{margin-left:65px;}
+	.extra-margin2{margin-left:15px;}
+		
+	.f1 {background-position:0px 0px;}
+	.f1:hover {background-position:0px -90px;}
+	
+	.f2 {background-position:300px 0px;}
+	.f2:hover {background-position:300px -90px;}
+	
+	.f3 {background-position:1500px 0px;}
+	.f3:hover {background-position:1500px -90px;}
+	
+	
+	
+
+	
+	
+	
+	

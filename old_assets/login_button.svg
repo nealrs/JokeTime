@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="noun_project_7578.svg"><metadata
+   id="metadata128"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs126"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 50 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="100 : 50 : 1"
+     inkscape:persp3d-origin="50 : 33.333333 : 1"
+     id="perspective130" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1340"
+   inkscape:window-height="749"
+   id="namedview124"
+   showgrid="false"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="440.25279"
+   inkscape:cy="17.798905"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+<g
+   id="Captions">
+	<rect
+   x="-192"
+   width="185"
+   height="99"
+   id="rect5" />
+	<rect
+   y="-36"
+   width="100"
+   height="30"
+   id="rect7" />
+	<text
+   transform="matrix(1 0 0 1 66 -19.5)"
+   fill="#000000"
+   font-family="'Helvetica'"
+   font-size="2.4"
+   id="text9">http://thenounproject.com</text>
+
+	<text
+   transform="matrix(1 0 0 1 7.166 -24.5)"
+   id="text11"><tspan
+     x="0"
+     y="0"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="6.1578"
+     id="tspan13">The Noun Project</tspan><tspan
+     x="1.12"
+     y="4.8"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="4"
+     id="tspan15">Icon Template</tspan></text>
+
+	<text
+   transform="matrix(1 0 0 1 -178.5 10.5)"
+   fill="#000000"
+   font-family="'Helvetica-Bold'"
+   font-size="6.1578"
+   id="text17">Reminders</text>
+
+	<line
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   x1="8"
+   y1="-14.5"
+   x2="18"
+   y2="-14.5"
+   id="line19" />
+	<line
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   x1="-179"
+   y1="16.5"
+   x2="-162"
+   y2="16.5"
+   id="line21" />
+	<g
+   id="g23">
+		<g
+   id="g25">
+			<g
+   id="g27">
+				<rect
+   x="-170.802"
+   y="31.318"
+   fill="#000000"
+   width="8.721"
+   height="8.642"
+   id="rect29" />
+				<path
+   fill="#000000"
+   d="M-164.455,42.312h4.747v-4.703h-4.747V42.312z M-159.266,42.749h-5.63V37.17h5.63V42.749      L-159.266,42.749z M-166.221,44.062h8.279v-8.203h-8.279V44.062L-166.221,44.062z M-157.5,44.5h-9.163v-9.079h9.163V44.5      L-157.5,44.5z"
+   id="path31" />
+				<polygon
+   fill="#000000"
+   points="-166.149,44.133 -166.292,43.991 -158.013,35.787 -157.871,35.929     "
+   id="polygon33" />
+			</g>
+		</g>
+	</g>
+	<rect
+   x="-179"
+   y="58"
+   fill="none"
+   width="35"
+   height="32.5"
+   id="rect35" />
+	<text
+   transform="matrix(1 0 0 1 -179 60.1572)"
+   id="text37"><tspan
+     x="0"
+     y="0"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="3"
+     id="tspan39">Strokes</tspan><tspan
+     x="0"
+     y="5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan41">Try to keep strokes at 4px</tspan><tspan
+     x="0"
+     y="10"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan43">Minimum stroke weight is 2px</tspan><tspan
+     x="0"
+     y="14.5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan45">For thicker strokes use even </tspan><tspan
+     x="0"
+     y="17.5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan47">numbers: 6px, 8px etc.</tspan><tspan
+     x="0"
+     y="22"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="2.4"
+     id="tspan49">Remember to expand strokes </tspan><tspan
+     x="0"
+     y="25"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="2.4"
+     id="tspan51">before saving as an SVG </tspan></text>
+
+	<rect
+   x="-136.5"
+   y="58"
+   fill="none"
+   width="35"
+   height="32.5"
+   id="rect53" />
+	<text
+   transform="matrix(1 0 0 1 -136.5 60.1572)"
+   id="text55"><tspan
+     x="0"
+     y="0"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="3"
+     id="tspan57">Size</tspan><tspan
+     x="0"
+     y="5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan59">Cannot be wider or taller than </tspan><tspan
+     x="0"
+     y="8.5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan61">100px (artboard size)</tspan><tspan
+     x="0"
+     y="13.5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan63">Scale your icon to fill as much of </tspan><tspan
+     x="0"
+     y="16.5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan65">the artboard as possible</tspan></text>
+
+	<rect
+   x="-94"
+   y="58"
+   fill="none"
+   width="35"
+   height="32.5"
+   id="rect67" />
+	<text
+   transform="matrix(1 0 0 1 -94 60.1572)"
+   id="text69"><tspan
+     x="0"
+     y="0"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="3"
+     id="tspan71">Ungroup</tspan><tspan
+     x="0"
+     y="5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan73">If your design has more than one </tspan><tspan
+     x="0"
+     y="8"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan75">shape, make sure to ungroup</tspan></text>
+
+	<rect
+   x="-50"
+   y="58"
+   fill="none"
+   width="35"
+   height="32.5"
+   id="rect77" />
+	<text
+   transform="matrix(1 0 0 1 -50 60.1572)"
+   id="text79"><tspan
+     x="0"
+     y="0"
+     fill="#000000"
+     font-family="'Helvetica-Bold'"
+     font-size="3"
+     id="tspan81">Save as</tspan><tspan
+     x="0"
+     y="5"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan83">Save as .SVG and make sure </tspan><tspan
+     x="0"
+     y="8"
+     fill="#000000"
+     font-family="'Helvetica'"
+     font-size="2.4"
+     id="tspan85">“Use Artboards” is checked</tspan></text>
+
+	<text
+   transform="matrix(1.0074 0 0 1 -125.542 30.5933)"
+   fill="#000000"
+   font-family="'Helvetica'"
+   font-size="2.5731"
+   id="text87">100px</text>
+
+	<text
+   transform="matrix(1.0074 0 0 1 -41 39)"
+   fill="#000000"
+   font-family="'Helvetica-Bold'"
+   font-size="5.1462"
+   id="text89">.SVG</text>
+
+	<rect
+   x="-126.514"
+   y="34.815"
+   fill="#000000"
+   width="10.261"
+   height="10.185"
+   id="rect91" />
+	<rect
+   x="-126.477"
+   y="31.766"
+   fill="#000000"
+   width="0.522"
+   height="2.337"
+   id="rect93" />
+	<rect
+   x="-116.812"
+   y="31.766"
+   fill="#000000"
+   width="0.523"
+   height="2.337"
+   id="rect95" />
+	<rect
+   x="-127"
+   y="32.337"
+   fill="#000000"
+   width="11.233"
+   height="0.572"
+   id="rect97" />
+	<g
+   id="g99">
+		<rect
+   x="-83.805"
+   y="33.844"
+   fill="#000000"
+   width="10.305"
+   height="10.156"
+   id="rect101" />
+		<rect
+   x="-76.809"
+   y="28.707"
+   fill="#000000"
+   width="3.308"
+   height="3.261"
+   id="rect103" />
+	</g>
+	<rect
+   x="-178.5"
+   y="22.5"
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   width="30"
+   height="30"
+   id="rect105" />
+	<rect
+   x="-136.5"
+   y="22.5"
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   width="30"
+   height="30"
+   id="rect107" />
+	<rect
+   x="-93.5"
+   y="22.5"
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   width="30"
+   height="30"
+   id="rect109" />
+	<rect
+   x="-49.5"
+   y="22.5"
+   fill="#000000"
+   stroke="#FFFFFF"
+   stroke-miterlimit="10"
+   width="30"
+   height="30"
+   id="rect111" />
+</g>
+
+<rect
+   style="fill:none;fill-opacity:1;stroke:none"
+   id="rect2972"
+   width="195.40199"
+   height="195.40401"
+   x="170.04123"
+   y="-133.7832"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/background.png"
+   inkscape:export-xdpi="23.029211"
+   inkscape:export-ydpi="23.029211" /><g
+   id="Your_Icon"
+   style="fill:#e6e6e6"
+   transform="translate(169.10123,-134.9912)"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/background.png"
+   inkscape:export-xdpi="23.029211"
+   inkscape:export-ydpi="23.029211">
+	<path
+   d="M 49.792,98.91 C 22.855,98.91 0.94,76.997 0.94,50.06 0.94,23.124 22.855,1.208 49.792,1.208 c 26.933,0 48.849,21.916 48.849,48.852 10e-4,26.937 -21.915,48.85 -48.849,48.85 z m 0,-86.14 C 29.228,12.77 12.5,29.497 12.5,50.061 c 0,20.562 16.728,37.29 37.292,37.29 20.562,0 37.29,-16.728 37.29,-37.29 0,-20.564 -16.728,-37.291 -37.29,-37.291 z"
+   id="path114"
+   style="fill:#e6e6e6" />
+	<g
+   id="g116"
+   style="fill:#e6e6e6">
+		<ellipse
+   cx="37.960999"
+   cy="36.526001"
+   rx="6.8730001"
+   ry="9.2819996"
+   id="ellipse118"
+   style="fill:#e6e6e6"
+   d="m 44.833999,36.526001 c 0,5.126307 -3.077147,9.282 -6.873,9.282 -3.795854,0 -6.873001,-4.155693 -6.873001,-9.282 0,-5.126307 3.077147,-9.282 6.873001,-9.282 3.795853,0 6.873,4.155693 6.873,9.282 z"
+   sodipodi:cx="37.960999"
+   sodipodi:cy="36.526001"
+   sodipodi:rx="6.8730001"
+   sodipodi:ry="9.2819996" />
+		<path
+   d="m 68.492,36.526 c 0,5.125 -3.076,9.282 -6.874,9.282 -3.793,0 -6.868,-4.157 -6.868,-9.282 0,-5.125 3.075,-9.28 6.868,-9.28 3.798,0.001 6.874,4.155 6.874,9.28 z"
+   id="path120"
+   style="fill:#e6e6e6" />
+	</g>
+	<path
+   d="m 49.755,76.921 c -15.869,0 -22.736,-11.05 -23.021,-11.521 -1.616,-2.671 -0.761,-6.146 1.911,-7.763 2.647,-1.599 6.093,-0.775 7.725,1.852 0.237,0.364 4.172,6.129 13.386,6.129 9.365,0 13.423,-6.075 13.462,-6.14 1.654,-2.646 5.145,-3.45 7.788,-1.799 2.649,1.657 3.452,5.145 1.799,7.791 -0.293,0.466 -7.335,11.451 -23.05,11.451 z"
+   id="path122"
+   style="fill:#e6e6e6" />
+</g><g
+   style="fill:#e6e6e6"
+   id="g2936"
+   transform="translate(266.80222,-37.289196)"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/background.png"
+   inkscape:export-xdpi="23.029211"
+   inkscape:export-ydpi="23.029211">
+	<path
+   style="fill:#e6e6e6"
+   id="path2938"
+   d="M 49.792,98.91 C 22.855,98.91 0.94,76.997 0.94,50.06 0.94,23.124 22.855,1.208 49.792,1.208 c 26.933,0 48.849,21.916 48.849,48.852 10e-4,26.937 -21.915,48.85 -48.849,48.85 z m 0,-86.14 C 29.228,12.77 12.5,29.497 12.5,50.061 c 0,20.562 16.728,37.29 37.292,37.29 20.562,0 37.29,-16.728 37.29,-37.29 0,-20.564 -16.728,-37.291 -37.29,-37.291 z" />
+	<g
+   style="fill:#e6e6e6"
+   id="g2940">
+		<ellipse
+   style="fill:#e6e6e6"
+   id="ellipse2942"
+   ry="9.2819996"
+   rx="6.8730001"
+   cy="36.526001"
+   cx="37.960999"
+   d="m 44.833999,36.526001 c 0,5.126307 -3.077147,9.282 -6.873,9.282 -3.795854,0 -6.873001,-4.155693 -6.873001,-9.282 0,-5.126307 3.077147,-9.282 6.873001,-9.282 3.795853,0 6.873,4.155693 6.873,9.282 z"
+   sodipodi:cx="37.960999"
+   sodipodi:cy="36.526001"
+   sodipodi:rx="6.8730001"
+   sodipodi:ry="9.2819996" />
+		<path
+   style="fill:#e6e6e6"
+   id="path2944"
+   d="m 68.492,36.526 c 0,5.125 -3.076,9.282 -6.874,9.282 -3.793,0 -6.868,-4.157 -6.868,-9.282 0,-5.125 3.075,-9.28 6.868,-9.28 3.798,0.001 6.874,4.155 6.874,9.28 z" />
+	</g>
+	<path
+   style="fill:#e6e6e6"
+   id="path2946"
+   d="m 49.755,76.921 c -15.869,0 -22.736,-11.05 -23.021,-11.521 -1.616,-2.671 -0.761,-6.146 1.911,-7.763 2.647,-1.599 6.093,-0.775 7.725,1.852 0.237,0.364 4.172,6.129 13.386,6.129 9.365,0 13.423,-6.075 13.462,-6.14 1.654,-2.646 5.145,-3.45 7.788,-1.799 2.649,1.657 3.452,5.145 1.799,7.791 -0.293,0.466 -7.335,11.451 -23.05,11.451 z" />
+</g><g
+   inkscape:export-ydpi="88.699997"
+   inkscape:export-xdpi="88.699997"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/login.png"
+   transform="matrix(0.32085321,0,0,0.32085321,496.61831,60.890313)"
+   style="fill:#000000"
+   id="g3746">
+	<path
+   style="fill:#000000"
+   id="path3748"
+   d="M 49.792,98.91 C 22.855,98.91 0.94,76.997 0.94,50.06 0.94,23.124 22.855,1.208 49.792,1.208 c 26.933,0 48.849,21.916 48.849,48.852 10e-4,26.937 -21.915,48.85 -48.849,48.85 z m 0,-86.14 C 29.228,12.77 12.5,29.497 12.5,50.061 c 0,20.562 16.728,37.29 37.292,37.29 20.562,0 37.29,-16.728 37.29,-37.29 0,-20.564 -16.728,-37.291 -37.29,-37.291 z" />
+	<g
+   style="fill:#000000"
+   id="g3750">
+		<ellipse
+   sodipodi:ry="9.2819996"
+   sodipodi:rx="6.8730001"
+   sodipodi:cy="36.526001"
+   sodipodi:cx="37.960999"
+   d="m 44.833999,36.526001 c 0,5.126307 -3.077147,9.282 -6.873,9.282 -3.795854,0 -6.873001,-4.155693 -6.873001,-9.282 0,-5.126307 3.077147,-9.282 6.873001,-9.282 3.795853,0 6.873,4.155693 6.873,9.282 z"
+   style="fill:#000000"
+   id="ellipse3752"
+   ry="9.2819996"
+   rx="6.8730001"
+   cy="36.526001"
+   cx="37.960999" />
+		<path
+   style="fill:#000000"
+   id="path3754"
+   d="m 68.492,36.526 c 0,5.125 -3.076,9.282 -6.874,9.282 -3.793,0 -6.868,-4.157 -6.868,-9.282 0,-5.125 3.075,-9.28 6.868,-9.28 3.798,0.001 6.874,4.155 6.874,9.28 z" />
+	</g>
+	<path
+   style="fill:#000000"
+   id="path3756"
+   d="m 49.755,76.921 c -15.869,0 -22.736,-11.05 -23.021,-11.521 -1.616,-2.671 -0.761,-6.146 1.911,-7.763 2.647,-1.599 6.093,-0.775 7.725,1.852 0.237,0.364 4.172,6.129 13.386,6.129 9.365,0 13.423,-6.075 13.462,-6.14 1.654,-2.646 5.145,-3.45 7.788,-1.799 2.649,1.657 3.452,5.145 1.799,7.791 -0.293,0.466 -7.335,11.451 -23.05,11.451 z" />
+</g><text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:market deco;-inkscape-font-specification:market deco"
+   x="478"
+   y="91.326904"
+   id="text3758"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/login.png"
+   inkscape:export-xdpi="88.699997"
+   inkscape:export-ydpi="88.699997"><tspan
+     sodipodi:role="line"
+     id="tspan3760"
+     x="478"
+     y="91.326904">l</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:market deco;-inkscape-font-specification:market deco"
+   x="527.76562"
+   y="91.356201"
+   id="text3762"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/login.png"
+   inkscape:export-xdpi="88.699997"
+   inkscape:export-ydpi="88.699997"><tspan
+     sodipodi:role="line"
+     id="tspan3764"
+     x="527.76562"
+     y="91.356201">gin</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:market deco;-inkscape-font-specification:market deco"
+   x="478"
+   y="26"
+   id="text3766"><tspan
+     sodipodi:role="line"
+     id="tspan3768"
+     x="478"
+     y="26">login</tspan><tspan
+     sodipodi:role="line"
+     x="478"
+     y="26"
+     id="tspan3770" /></text>
+<g
+   id="g3772"
+   style="fill:#000000"
+   transform="matrix(0.32085321,0,0,0.32085321,496.61831,104.73093)"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/login.png"
+   inkscape:export-xdpi="57.41993"
+   inkscape:export-ydpi="57.41993">
+	<path
+   d="M 49.792,98.91 C 22.855,98.91 0.94,76.997 0.94,50.06 0.94,23.124 22.855,1.208 49.792,1.208 c 26.933,0 48.849,21.916 48.849,48.852 10e-4,26.937 -21.915,48.85 -48.849,48.85 z m 0,-86.14 C 29.228,12.77 12.5,29.497 12.5,50.061 c 0,20.562 16.728,37.29 37.292,37.29 20.562,0 37.29,-16.728 37.29,-37.29 0,-20.564 -16.728,-37.291 -37.29,-37.291 z"
+   id="path3774"
+   style="fill:#000000" />
+	<g
+   id="g3776"
+   style="fill:#000000">
+		<ellipse
+   cx="37.960999"
+   cy="36.526001"
+   rx="6.8730001"
+   ry="9.2819996"
+   id="ellipse3778"
+   style="fill:#000000"
+   d="m 44.833999,36.526001 c 0,5.126307 -3.077147,9.282 -6.873,9.282 -3.795854,0 -6.873001,-4.155693 -6.873001,-9.282 0,-5.126307 3.077147,-9.282 6.873001,-9.282 3.795853,0 6.873,4.155693 6.873,9.282 z"
+   sodipodi:cx="37.960999"
+   sodipodi:cy="36.526001"
+   sodipodi:rx="6.8730001"
+   sodipodi:ry="9.2819996" />
+		<path
+   d="m 68.492,36.526 c 0,5.125 -3.076,9.282 -6.874,9.282 -3.793,0 -6.868,-4.157 -6.868,-9.282 0,-5.125 3.075,-9.28 6.868,-9.28 3.798,0.001 6.874,4.155 6.874,9.28 z"
+   id="path3780"
+   style="fill:#000000" />
+	</g>
+	<path
+   d="m 49.755,76.921 c -15.869,0 -22.736,-11.05 -23.021,-11.521 -1.616,-2.671 -0.761,-6.146 1.911,-7.763 2.647,-1.599 6.093,-0.775 7.725,1.852 0.237,0.364 4.172,6.129 13.386,6.129 9.365,0 13.423,-6.075 13.462,-6.14 1.654,-2.646 5.145,-3.45 7.788,-1.799 2.649,1.657 3.452,5.145 1.799,7.791 -0.293,0.466 -7.335,11.451 -23.05,11.451 z"
+   id="path3782"
+   style="fill:#000000" />
+</g><text
+   id="text3784"
+   y="134.84326"
+   x="471.30798"
+   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:market deco;-inkscape-font-specification:market deco"
+   xml:space="preserve"
+   inkscape:export-filename="/Users/neal/Desktop/comedy/login.png"
+   inkscape:export-xdpi="57.41993"
+   inkscape:export-ydpi="57.41993"><tspan
+     y="134.84326"
+     x="471.30798"
+     id="tspan3786"
+     sodipodi:role="line">g</tspan></text>
+</svg>
